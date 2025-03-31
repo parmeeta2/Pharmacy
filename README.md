@@ -64,4 +64,6 @@ Future Enhancements
 
   2. Multi-Branch Support to manage multiple pharmacy locations.
 
+Link for the working of the project: https://drive.google.com/file/d/1jqIOaIbGfisDt4c55_X5jngjkbUXdNBe/view?usp=sharing
+
   3. Mobile Application for remote access and order management.
